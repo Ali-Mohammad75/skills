@@ -1,0 +1,26 @@
+[
+  {
+    "repository": "https://github.com/AgriciDaniel/claude-seo",
+    "commit": "55c7914a3ed2869b217b5d5f360a4e7ba28b4848",
+    "review_date": "2026-09-11",
+    "root_license": "MIT",
+    "reuse": "selected workflow concepts; no executable code vendored",
+    "validation": "README, license and selected skill/source inspection; not a full upstream runtime test"
+  },
+  {
+    "repository": "https://github.com/seranking/seo-skills",
+    "commit": "fd6d1408f2e6a06454d81c07c29e0f04342eb9ba",
+    "review_date": "2026-09-11",
+    "root_license": "MIT",
+    "reuse": "selected workflow concepts; no executable code vendored",
+    "validation": "README, license and selected skill/source inspection; not a full upstream runtime test"
+  },
+  {
+    "repository": "https://github.com/seo-skills/seo-audit-skill",
+    "commit": "bbd213fe01402043f2a222c7eda8e10c9ae4c0cd",
+    "review_date": "2026-09-11",
+    "root_license": "MIT",
+    "reuse": "selected workflow concepts; no executable code vendored",
+    "validation": "README, license and selected skill/source inspection; not a full upstream runtime test"
+  }
+]

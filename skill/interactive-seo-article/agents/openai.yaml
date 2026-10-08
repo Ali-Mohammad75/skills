@@ -1,0 +1,4 @@
+interface:
+  display_name: "تولید تعاملی مقالهٔ سئو"
+  short_description: "از تحلیل جست‌وجو تا مقاله، با تأیید مرحله‌به‌مرحله"
+  default_prompt: "با $interactive-seo-article برای موضوعی که می‌دهم مقالهٔ کامل تولید کن و سؤال‌ها را یکی‌یکی بپرس."

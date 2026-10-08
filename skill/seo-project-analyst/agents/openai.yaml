@@ -1,0 +1,4 @@
+interface:
+  display_name: "SEO Project Analyst"
+  short_description: "Evidence-based SEO audits and project action plans"
+  default_prompt: "Use $seo-project-analyst to analyze this project and prioritize SEO actions using the supplied evidence."

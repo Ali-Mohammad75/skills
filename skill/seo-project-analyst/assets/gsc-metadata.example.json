@@ -1,0 +1,26 @@
+{
+  "before": {
+    "property": "sc-domain:example.com",
+    "search_type": "web",
+    "filters": {},
+    "dimensions": [
+      "page"
+    ],
+    "timezone": "unknown",
+    "coverage": "limited",
+    "start": "2026-07-01",
+    "end": "2026-07-28"
+  },
+  "current": {
+    "property": "sc-domain:example.com",
+    "search_type": "web",
+    "filters": {},
+    "dimensions": [
+      "page"
+    ],
+    "timezone": "unknown",
+    "coverage": "limited",
+    "start": "2026-07-29",
+    "end": "2026-08-25"
+  }
+}
